@@ -1,5 +1,3 @@
-#Thales de Castro Soares RA: 86958
-
 import numpy as np
 import cv2
 
